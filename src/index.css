@@ -1,0 +1,25 @@
+.app {
+  display: flex;
+  justify-content: center;
+  padding: 30px;
+}
+
+.game {
+  border: 1px solid rgb(3, 3, 3);
+  padding: 10px;
+  width: 560px;
+  height: 560px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.game img {
+  width: 70px;
+  height: 70px;
+}
+.score-board h2{
+  padding: 25px;
+  margin-top: 200px;
+  margin-left: 175px;
+  font-size: xx-large;
+}
